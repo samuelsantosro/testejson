@@ -1,4 +1,4 @@
-{ "hotel":
+{ "hotel":[
                 {
                     title: 'Hotel 1',
                     desc: 'R$ 500,00'
