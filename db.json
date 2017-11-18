@@ -1,14 +1,14 @@
-{
-  " posts " : [
-    { " id " : 1 , " título " : " Post 1 " },
-    { " id " : 2 , " título " : " Post 2 " },
-    { " id " : 3 , " título " : " Post 3 " }
-  ],
-  " comentários " : [
-    { " id " : 1 , " body " : " some comment " , " postId " : 1 },
-    { " id " : 2 , " corpo " : " alguns comentários " , " postId " : 1 }
-  ],
-  " perfil " : {
-    " nome " : " typicode "
-  }
-}
+ [
+                    {
+                        title: 'Hotel 1',
+                        desc: 'R$ 500,00'
+                    },
+                    {
+                        title: 'Hotel 2',
+                        desc: 'R$ 250,00'
+                    },
+                    {
+                        title: 'Hotel 3',
+                        desc: 'R$ 320,00'
+                    },
+                ]
