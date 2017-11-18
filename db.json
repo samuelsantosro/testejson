@@ -1,15 +1,11 @@
-[
-                {
-                    title: 'Hotel 1',
-                    desc: 'R$ 500,00'
-                },
-                {
-                    title: 'Hotel 2',
-                    desc: 'R$ 250,00'
-                },
-                {
-                    title: 'Hotel 3',
-                    desc: 'R$ 320,00'
-                }
-            ]
-
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
