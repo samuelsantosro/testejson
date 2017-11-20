@@ -1,5 +1,14 @@
-[ 
+{
+  "hoteis": [
     { " title " : " Hotel 1 "," desc " : " R$ 500,00 " }, 
     { " title " : " Hotel 2 "," desc " : " R$ 250,00 " },
     { " title " : " Hotel 3 "," desc " : " R$ 320,00 " } 
-]
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
