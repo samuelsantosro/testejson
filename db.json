@@ -1,9 +1,9 @@
 {
   "posts": [
-    { "id": 1, "title" : "Hotel 1","desc" : "R$ 150,00", "data":"10/10/2010", "hora":"10:00", "Status no hotel": "pago", "status no vendedor": "não recebido" }, 
-    { "id": 2, "title" : "Hotel 2", "desc" : "R$ 250,00", "data":"11/10/2010", "hora":"11:00", "Status no hotel": "não pago", "status no vendedor": "recebido"},
-    { "id": 3, "title" : "Hotel 3", "desc" : "R$ 350,00", "data":"12/10/2010", "hora":"12:00", "Status no hotel": "pago", "status no vendedor": "não recebido"},
-    { "id": 4, "title" : "Hotel 4", "desc" : "R$ 450,00", "data":"13/10/2010", "hora":"13:00", "Status no hotel": "não pago", "status no vendedor": "recebido"} 
+    { "id": "1", "title" : "Hotel 1","desc" : "R$ 150,00", "data":"10/10/2010", "hora":"10:00", "Status no hotel": "pago", "status no vendedor": "não recebido" }, 
+    { "id": "2", "title" : "Hotel 2", "desc" : "R$ 250,00", "data":"11/10/2010", "hora":"11:00", "Status no hotel": "não pago", "status no vendedor": "recebido"},
+    { "id": "3", "title" : "Hotel 3", "desc" : "R$ 350,00", "data":"12/10/2010", "hora":"12:00", "Status no hotel": "pago", "status no vendedor": "não recebido"},
+    { "id": "4", "title" : "Hotel 4", "desc" : "R$ 450,00", "data":"13/10/2010", "hora":"13:00", "Status no hotel": "não pago", "status no vendedor": "recebido"} 
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
