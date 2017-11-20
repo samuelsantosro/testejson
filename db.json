@@ -29,6 +29,5 @@
 {"idvenda":"3","valor": "R$ 751,00","data":"12/08/2017","hora":"06:12","hospede":"hosp 07","stvendedor":"nao recebido"},  
 {"idvenda":"4","valor": "R$ 11,00","data":"11/09/2001","hora":"10:40","hospede":"hosp 03","stvendedor":"nao recebido"},  
 ]},
- ],
-
+ ]
 } 
