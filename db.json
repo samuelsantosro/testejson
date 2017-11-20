@@ -1,7 +1,7 @@
 { 
  
 
-"geral":[ {"idvendedor":"1", "naomevend": "Vendedor 01", 
+"geral":[ {"id":"1", "naomevend": "Vendedor 01", 
 "vendas": [ 
 {"idvenda":"1","valor": "R$ 170,00","data":"10/02/2011","hora":"11:00","hospede":"hosp 01","stvendedor":"nao recebido"},  
 {"idvenda":"2","valor": "R$ 150,00","data":"15/11/2010","hora":"15:02","hospede":"hosp 07","stvendedor":"nao recebido"},  
@@ -11,7 +11,7 @@
  
 
 
-{"idvendedor":"2", "naomevend": "Vendedor 02", 
+{"id":"2", "naomevend": "Vendedor 02", 
 "vendas": [ 
 {"idvenda":"1","valor": "R$ 450,00","data":"10/12/2011","hora":"11:00","hospede":"hosp 45","stvendedor":"nao recebido"},  
 {"idvenda":"2","valor": "R$ 11,00","data":"15/04/2010","hora":"15:02","hospede":"hosp 09","stvendedor":"nao recebido"},  
@@ -20,7 +20,7 @@
 ]},
 
 
-{"idvendedor":"3", "naomevend": "Vendedor 03", 
+{"id":"3", "naomevend": "Vendedor 03", 
 "vendas": [ 
 {"idvenda":"1","valor": "R$ 1170,00","data":"10/02/2011","hora":"11:00","hospede":"hosp 11","stvendedor":"nao recebido"},  
 {"idvenda":"2","valor": "R$ 50,00","data":"15/11/2010","hora":"15:02","hospede":"hosp 07","stvendedor":"nao recebido"},  
@@ -29,7 +29,7 @@
 ]},
 
 
-{"idvendedor":"4", "naomevend": "Vendedor 04", 
+{"id":"4", "naomevend": "Vendedor 04", 
 "vendas": [ 
 {"idvenda":"1","valor": "R$ 70,00","data":"10/02/2011","hora":"11:00","hospede":"hosp 01","stvendedor":"nao recebido"},  
 {"idvenda":"2","valor": "R$ 24,00","data":"15/11/2010","hora":"15:02","hospede":"hosp 25","stvendedor":"nao recebido"},  
@@ -40,4 +40,4 @@
 
 ]
  
-}
+} 
