@@ -3,10 +3,10 @@
 
 "geral":[ {"id":"1", "naomevend": "Vendedor 01", 
 "vendas": [ 
-{"id":"1","valor": 170.00,"data":"10/02/2011","hora":"11:00","hospede":"hosp 01","stvendedor":"nao recebido"},  
-{"id":"2","valor": 150.00,"data":"15/11/2010","hora":"15:02","hospede":"hosp 07","stvendedor":"nao recebido"},  
-{"id":"3","valor": 140.00,"data":"12/08/2017","hora":"06:12","hospede":"hosp 17","stvendedor":"nao recebido"},  
-{"id":"4","valor": 250.00,"data":"11/09/2001","hora":"10:40","hospede":"hosp 13","stvendedor":"nao recebido"}  
+{"id":"1","valor": "170.00","data":"10/02/2011","hora":"11:00","hospede":"hosp 01","stvendedor":"nao recebido"},  
+{"id":"2","valor": "150.00","data":"15/11/2010","hora":"15:02","hospede":"hosp 07","stvendedor":"nao recebido"},  
+{"id":"3","valor": "140.00","data":"12/08/2017","hora":"06:12","hospede":"hosp 17","stvendedor":"nao recebido"},  
+{"id":"4","valor": 250.50,"data":"11/09/2001","hora":"10:40","hospede":"hosp 13","stvendedor":"nao recebido"}  
 ]}, 
  
 
