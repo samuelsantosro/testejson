@@ -1,6 +1,5 @@
 { 
  
-
 "geral":[ {"id":"1", "naomevend": "Vendedor 01", 
 "vendas": [ 
 {"id":"1","valor": 170.22,"data":"10/02/2011","hora":"11:00","hospede":"hosp 01","stvendedor":"nao recebido"},  
