@@ -2,38 +2,38 @@
  
 "geral":[ {"id":"1", "naomevend": "Vendedor 01", 
 "vendas": [ 
-{"id":"1","valor": 170.22,"data":"10/02/2011","hora":"11:00","hospede":"hosp 01","stvendedor":"nao recebido"},  
-{"id":"2","valor": 150.33,"data":"15/11/2010","hora":"15:02","hospede":"hosp 07","stvendedor":"recebido"},  
-{"id":"3","valor": 140.44,"data":"12/08/2017","hora":"06:12","hospede":"hosp 17","stvendedor":"nao recebido"},  
-{"id":"4","valor": 250.55,"data":"11/09/2001","hora":"10:40","hospede":"hosp 13","stvendedor":"recebido"}  
+{"id":"1","valor": 170.22,"data":"10/02/2011","hora":"11:00","hospede":"hosp 01","stvendedor":"0"},  
+{"id":"2","valor": 150.33,"data":"15/11/2010","hora":"15:02","hospede":"hosp 07","stvendedor":"1"},  
+{"id":"3","valor": 140.44,"data":"12/08/2017","hora":"06:12","hospede":"hosp 17","stvendedor":"0"},  
+{"id":"4","valor": 250.55,"data":"11/09/2001","hora":"10:40","hospede":"hosp 13","stvendedor":"1"}  
 ]}, 
  
 
 
 {"id":"2", "naomevend": "Vendedor 02", 
 "vendas": [ 
-{"id":"1","valor": 450.22,"data":"10/12/2011","hora":"11:00","hospede":"hosp 45","stvendedor":"nao recebido"},  
-{"id":"2","valor": 11.33,"data":"15/04/2010","hora":"15:02","hospede":"hosp 09","stvendedor":"recebido"},  
-{"id":"3","valor": 147.44,"data":"12/09/2017","hora":"06:12","hospede":"hosp 23","stvendedor":"nao recebido"},  
-{"id":"4","valor": 255.55,"data":"11/12/2001","hora":"10:40","hospede":"hosp 11","stvendedor":"recebido"}  
+{"id":"1","valor": 450.22,"data":"10/12/2011","hora":"11:00","hospede":"hosp 45","stvendedor":"0"},  
+{"id":"2","valor": 11.33,"data":"15/04/2010","hora":"15:02","hospede":"hosp 09","stvendedor":"1"},  
+{"id":"3","valor": 147.44,"data":"12/09/2017","hora":"06:12","hospede":"hosp 23","stvendedor":"0"},  
+{"id":"4","valor": 255.55,"data":"11/12/2001","hora":"10:40","hospede":"hosp 11","stvendedor":"1"}  
 ]},
 
 
 {"id":"3", "naomevend": "Vendedor 03", 
 "vendas": [ 
-{"id":"1","valor": 1170.22,"data":"10/02/2011","hora":"11:00","hospede":"hosp 11","stvendedor":"recebido"},  
-{"id":"2","valor": 50.33,"data":"15/11/2010","hora":"15:02","hospede":"hosp 07","stvendedor":"nao recebido"},  
-{"id":"3","valor": 1420.44,"data":"12/08/2017","hora":"06:12","hospede":"hosp 27","stvendedor":"nao recebido"},  
-{"id":"4","valor": 2505.55,"data":"11/09/2001","hora":"10:40","hospede":"hosp 04","stvendedor":"recebido"}  
+{"id":"1","valor": 1170.22,"data":"10/02/2011","hora":"11:00","hospede":"hosp 11","stvendedor":"1"},  
+{"id":"2","valor": 50.33,"data":"15/11/2010","hora":"15:02","hospede":"hosp 07","stvendedor":"0"},  
+{"id":"3","valor": 1420.44,"data":"12/08/2017","hora":"06:12","hospede":"hosp 27","stvendedor":"0"},  
+{"id":"4","valor": 2505.55,"data":"11/09/2001","hora":"10:40","hospede":"hosp 04","stvendedor":"1"}  
 ]},
 
 
 {"id":"4", "naomevend": "Vendedor 04", 
 "vendas": [ 
-{"id":"1","valor": 70.22,"data":"10/02/2011","hora":"11:00","hospede":"hosp 01","stvendedor":"recebido"},  
-{"id":"2","valor": 24.33,"data":"15/11/2010","hora":"15:02","hospede":"hosp 25","stvendedor":"nao recebido"},  
-{"id":"3","valor": 751.44,"data":"12/08/2017","hora":"06:12","hospede":"hosp 07","stvendedor":"recebido"},  
-{"id":"4","valor": 11.55,"data":"11/09/2001","hora":"10:40","hospede":"hosp 03","stvendedor":"nao recebido"}  
+{"id":"1","valor": 70.22,"data":"10/02/2011","hora":"11:00","hospede":"hosp 01","stvendedor":"1"},  
+{"id":"2","valor": 24.33,"data":"15/11/2010","hora":"15:02","hospede":"hosp 25","stvendedor":"0"},  
+{"id":"3","valor": 751.44,"data":"12/08/2017","hora":"06:12","hospede":"hosp 07","stvendedor":"1"},  
+{"id":"4","valor": 11.55,"data":"11/09/2001","hora":"10:40","hospede":"hosp 03","stvendedor":"0"}  
 ]}
 
 
